@@ -1,4 +1,4 @@
-# Basic Sample Hardhat Project
+# HKUST-5017-blockchain Project-Artport NFT market
 
 This project is based on Hardhat frame. It includes the contracts and web pages.
 
